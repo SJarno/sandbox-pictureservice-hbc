@@ -1,0 +1,35 @@
+header {
+    background-color: rgb(23, 145, 194);
+    color: beige;
+    text-align: center;
+    min-height: 5rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+li {
+    list-style: none;  
+}
+
+a {
+    color: beige;
+    text-decoration: none;
+}
+
+
+main {
+    margin: 2rem;
+}
+
+figure img {
+    width: 50%;
+    border: solid 0.5rem black;
+}
+
+footer {
+    background-color: rgb(23, 145, 194);
+}
